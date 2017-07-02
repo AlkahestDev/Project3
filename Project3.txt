@@ -1,0 +1,124 @@
+Project3
+Alkahests side-scrolling, scenic, single player story driven, action packed RPG.
+
+
+Story
+- Apocalyptic
+    - Disease?
+    - War?
+    - Resource depletion?
+- Character
+    - Young guy/girl
+    - Lived in a refugee camp for a few years
+    - Early Choice:
+        - Stay close with your family, and make sure they stay safe
+        - Venture out alone, in search of resources
+        - Join a faction
+        - Join your friends
+    - Customizable
+
+
+Factions
+- [Artificial Country]’s government
+- Rebellion
+- Local Town
+- Some assassin group
+
+
+Ammunition Types:
+- Bullets
+    - Standard
+    - Hollow Point
+    - Full metal Jacket
+    - Tracer
+    - Shotgun Shells
+    - Slug
+    - Birdshot
+    - Buckshot
+    - Explosive
+
+
+- Materials:
+    - Aluminium
+        - Lightweight metal
+        - Lightest of all metals
+        - Lowest durability of all metals
+    - Steel
+        - Medium Weight Metal
+        - Most common
+        - Medium Durability
+    - Plastic
+        - Nerf gun like material
+        - Second Lightest Material
+        - Lowest durability
+        - Least durable material
+    - Tungsten
+        - Brittle and heavy metal
+        - Very Heavy metal (second to gold)
+        - most durable barrel material
+        - Medium durability in stock and receiver
+        - Fairly rare
+    - Gold
+        - Heavy and soft metal
+        - Heaviest metal
+        - Least durable material for stock and receiver
+        - Low-medium durability in the barrel
+        - Most Rare
+        - (if added: highest chance of having wildcard enchantments)
+    - Titanium
+        - Lightweight and tough metal
+        - Most durable receiver and stock material
+        - Second most durable barrel material (after tungsten)
+        - Very Rare
+    - Carbon Fiber
+        - Rivals titanium as best material
+        - Lightweight and strong polymer based material (lighter than titanium)
+        - Most durable in receiver and stock (same as titanium)
+        - Medium durability in barrel
+        - Low accuracy as barrel material
+        - Very Rare (same as titanium)
+    - Wood
+        - Lightest material
+        - Worst barrel and receiver material
+        - Medium durability in the stock
+        - Common material
+
+
+- Gun Customization
+    - Barrel
+        - Short
+            - Low Accuracy
+            - Lightweight
+            - Snappy responsiveness
+        - Medium
+            - Medium Accuracy
+            - Medium Weight
+            - Medium responsiveness
+        - Long
+            - High Accuracy
+            - Heavy
+            - Sluggish responsiveness
+- Receiver
+    - Bullpup Auto
+    - Bullpup Semi
+    - Bullpup Bolt Action
+    - Standard Auto
+    - Standard Semi
+    - Standard Bolt Action
+    - Flintlock
+    - +Shotgun versions of each
+- Stock
+    - Crane
+    - Precision
+    - None
+    - Wire
+    - Rifle
+- Magazines
+    - Short  [<10]
+    - Long   [<20]
+    - Banana [<30]
+    - Drum   [<50]
+    - Beta   [<70]
+    - Belt   [>100 (belt-fed receivers only)]
+
+
