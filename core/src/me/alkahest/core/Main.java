@@ -1,17 +1,21 @@
-package me.alkahest;
+package me.alkahest.core;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import me.alkahest.guns.Weapon;
 
 public class Main extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
-	
+	Weapon.Gun exampleGun;
 	@Override
 	public void create () {
+		exampleGun = new Weapon.Gun(0,0);
+		exampleGun.autoGenerateParts(5);
+		System.out.println(exampleGun);
 		batch = new SpriteBatch();
 		img = new Texture("badlogic.jpg");
 	}
